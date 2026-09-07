@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=50&pause=1000&color=FF0000&center=true&vCenter=true&width=700&height=120&lines=🩸+BLD-BLOOD-BOT+🩸;THE+MOST+POWERFUL+BOT;DEVELOPED+BY+BLOOD" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=50&pause=1000&color=FF0000&center=true&vCenter=true&width=700&height=120&lines=🩸+RLY-RILEY-BOT+🩸;THE+MOST+POWERFUL+BOT;DEVELOPED+BY+BLOOD" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=800&color=00FF00&center=true&vCenter=true&width=600&height=60&lines=STATUS:+ONLINE+✅;SYSTEM:+STABLE+🚀;OWNER:+BLOOD" alt="Status SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=800&color=00FF00&center=true&vCenter=true&width=600&height=60&lines=STATUS:+ONLINE+✅;SYSTEM:+STABLE+🚀;OWNER:+RILEY" alt="Status SVG" />
 </p>
 
 ---
@@ -22,7 +22,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&pause=500&color=FF0000&center=true&vCenter=true&width=700&height=80&lines=DESCRIZIONE;SPECIFICHE+TECNICHE" alt="Descrizione" />
 </p>
 
-**BLD-BLOOD-BOT** è un ecosistema avanzato per WhatsApp, costruito per garantire la massima potenza e stabilità.
+**RLY RILEY BOT** è un ecosistema avanzato per WhatsApp, costruito per garantire la massima potenza e stabilità.
 
 * **Core Ultra-Rapido:** Sviluppato in Node.js (V16+) con architettura asincrona.
 * **Sicurezza:** Algoritmo Anti-Ban 4.0 con rotazione degli header.
@@ -44,8 +44,8 @@
     ```
 2.  **Clone del Bot:**
     ```bash
-    git clone [https://github.com/BLOOD212/BLD-BLOOD-BOT.git](https://github.com/BLOOD212/BLD-BLOOD-BOT.git)
-    cd BLD-BLOOD-BOT
+    git clone [https://github.com/chibuai55-tech/RLY-RILEY-BOT](https://github.com/chibuai55-tech/RLY-RILEY-BOT)
+    cd RLY RILEY BOT
     ```
 3.  **Avvio:**
     ```bash
@@ -81,7 +81,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BLOOD212&repo=BLD-BLOOD-BOT&theme=blood-dark&title_color=ff0000&icon_color=ff0000" width="100%" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BLOOD212&repo=RLY-RILEY-BOT&theme=blood-dark&title_color=ff0000&icon_color=ff0000" width="100%" alt="Stats" />
 </p>
 
 ---
@@ -90,12 +90,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&pause=500&color=FF0000&center=true&vCenter=true&width=700&height=80&lines=STAFF;CONTATTI" alt="Staff" />
 </p>
 
-* **Sviluppatore:** Blood 
-* **Supporto WhatsApp:** [+39 370 133 0693](https://wa.me/393701330693)
-* **Community:** [UNISCITI AL CANALE](https://whatsapp.com/channel/0029VbCIFecBadmZCxG8ug0W)
+* **Sviluppatore:** RILEY
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=2000&color=FF0000&center=true&vCenter=true&width=650&height=60&lines=SUPPORT+BY+GIVING+A+STAR+⭐;THANKS+FOR+USING+BLD-BLOOD-BOT!" alt="Thanks" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=2000&color=FF0000&center=true&vCenter=true&width=650&height=60&lines=SUPPORT+BY+GIVING+A+STAR+⭐;THANKS+FOR+USING+RLY-RILEY-BOT!" alt="Thanks" />
 </p>
 
 <p align="center">
@@ -103,5 +101,5 @@
 </p>
 
 <p align="center">
-  <b>© 2026 BLD-BLOOD-BOT • Sviluppato by Blood</b>
+  <b>© 2026 RLY-RILEY-BOT • Sviluppato by Riley</b>
 </p>
